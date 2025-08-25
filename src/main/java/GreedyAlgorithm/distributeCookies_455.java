@@ -7,7 +7,8 @@ import java.util.Comparator;
 /**
  * @Author: Meric
  * @CreateTime: 2025-08-20
- * @Description: 455分发饼干
+ * @Description: 455. 分发饼干
+ * https://leetcode.cn/problems/assign-cookies/
  * @Version: 1.0
  */
 
