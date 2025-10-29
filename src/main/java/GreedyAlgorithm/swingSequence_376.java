@@ -9,7 +9,6 @@ import java.util.List;
  * @Author: Meric
  * @CreateTime: 2025-08-20
  * @Description: 376. 摆动序列
- * https://leetcode.cn/problems/wiggle-subsequence/
  * @Version: 1.0
  */
 

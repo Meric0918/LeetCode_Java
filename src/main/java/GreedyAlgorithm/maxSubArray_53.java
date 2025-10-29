@@ -5,7 +5,6 @@ package GreedyAlgorithm;
  * @Author: Meric
  * @CreateTime: 2025-08-20
  * @Description: 53. 最大子数组和
- * https://leetcode.cn/problems/maximum-subarray/
  * @Version: 1.0
  */
 
