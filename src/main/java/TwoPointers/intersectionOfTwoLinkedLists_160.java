@@ -8,15 +8,13 @@ package TwoPointers;
  * @Version: 1.0
  */
 
-import java.util.List;
-
 /**
  *  本题目先计算出ListA与ListB的长度，然后将A与B的末尾对齐，以短的链表为标准将指针p q指向（从后向前）同一长度的位置，
  *  在循环体中，如果找到p与q指向同一个节点就返回此节点（p）
  *  否则，p或者q指向null时候，直接退出返回null（p）
  */
 
-public class intersectionOfTwoLinkedLists {
+public class intersectionOfTwoLinkedLists_160 {
 
     public static class ListNode {
         int val;

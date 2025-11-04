@@ -1,9 +1,6 @@
 package HashTable;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @Author: Meric
  * @CreateTime: 2025-10-30
@@ -15,7 +12,7 @@ import java.util.List;
  * 构建一个数组arr[26]，每个字母对应一个位置，其中元素代表字符串的个数，对于s中的元素对应的字母个数++，再对于t中的元素对应的字母个数--，最后判断元素是否全为0
  */
 
-public class validAnagram {
+public class validAnagram_242 {
     public static boolean isAnagram(String s, String t) {
         int len = s.length();
         if(len != t.length()){
